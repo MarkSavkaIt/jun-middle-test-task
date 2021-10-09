@@ -3,6 +3,8 @@
   "semi": false,
   "arrowParens": "always",
   "trailingComma": "es5",
-  "importOrder": ["^[./]"],
+  "importOrder": [
+    "^[./]"
+  ],
   "importOrderSeparation": true
 }

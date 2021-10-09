@@ -1,4 +1,6 @@
 import * as React from 'react'
 
+import { Container } from '../containers/container'
+
 export interface IProps {}
-export const Example: React.FC<IProps> = () => <h1>Hi, I am an example</h1>
+export const Example: React.FC<IProps> = () => <Container />
